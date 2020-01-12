@@ -8,8 +8,10 @@ tambah_data
 ubah data
 hapus data
 cari data
+
 3 view_nilai.py berisi modul untuk
 
 cetak daftar nilai
 cetak hasil pencarian
+
 4 input_nilai.py berisi modul untuk meminta user menginputkan data
